@@ -12,3 +12,11 @@ UM 22/23 WOC&amp;WOA Group Project
 ![CheokJunYang16p](https://raw.githubusercontent.com/khawzk/APCRT/main/16P(CheokJunYang).PNG)
 
 ![CheokJunYang5p](https://raw.githubusercontent.com/khawzk/APCRT/main/5P(CheokJunYang).PNG)
+
+3.Hui Zi
+
+![HuiZi16p](https://raw.githubusercontent.com/khawzk/APCRT/main/16p(HuiZi).png)
+
+![HuiZi5pA](https://raw.githubusercontent.com/khawzk/APCRT/main/5pA(HuiZi).png)
+
+![HuiZi5pB](https://raw.githubusercontent.com/khawzk/APCRT/main/5pB(HuiZi).png)
