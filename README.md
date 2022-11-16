@@ -1,7 +1,7 @@
 # Group Name: APCRT
 UM 22/23 WOC&amp;WOA Group Project
 # Group Member 
--[1.Khaw Zhe Kang](#-Khaw-Zhe-Kang)
+-[1.Khaw Zhe Kang](#-Khaw-Zhe-Kang-Results)
 
 -[2.Cheok Jun Yang]
 
@@ -24,7 +24,7 @@ UM 22/23 WOC&amp;WOA Group Project
 -[11.Lim Mei Yee]
 
 ## Personalities Test Results
-# Khaw Zhe Kang
+# Khaw Zhe Kang Results
 
 ![KhawZheKang16p](https://raw.githubusercontent.com/khawzk/APCRT/main/16Personalities.PNG)
 
