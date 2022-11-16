@@ -3,25 +3,25 @@ UM 22/23 WOC&amp;WOA Group Project
 # Group Member 
 -[1.Khaw Zhe Kang](#khaw-zhe-kang)
 
--[2.Cheok Jun Yang]
+-[2.Cheok Jun Yang](#cheok-jun-yang)
 
--[3.Hui Zi]
+-[3.Hui Zi](#hui-zi)
 
--[4.Choy Hon Yoong]
+-[4.Choy Hon Yoong](#choy-hon-yoong)
 
--[5.Sun Wenhao]
+-[5.Sun Wenhao](#sun-wenhao)
 
--[6.Shiqi Yin]
+-[6.Shiqi Yin](#shiqi-yin)
 
--[7.Jiayu Du]
+-[7.Jiayu Du](#jiayu-du)
 
--[8.Jie Jiang]
+-[8.Jie Jiang](#jie-jiang)
 
--[9.Meng Meng]
+-[9.Meng Meng](#meng-meng)
 
--[10.Jialiang Liu]
+-[10.Jialiang Liu](#jialiang-liu)
 
--[11.Lim Mei Yee]
+-[11.Lim Mei Yee](#lim-mei-yee)
 
 ## Personalities Test Results
 # Khaw Zhe Kang
@@ -30,13 +30,13 @@ UM 22/23 WOC&amp;WOA Group Project
 
 ![KhawZheKang5p](https://github.com/khawzk/APCRT/blob/main/5Personalities.PNG)
 
-# 2.Cheok Jun Yang
+# Cheok Jun Yang
 
 ![CheokJunYang16p](https://raw.githubusercontent.com/khawzk/APCRT/main/16P(CheokJunYang).PNG)
 
 ![CheokJunYang5p](https://raw.githubusercontent.com/khawzk/APCRT/main/5P(CheokJunYang).PNG)
 
-# 3.Hui Zi
+# Hui Zi
 
 ![HuiZi16p](https://raw.githubusercontent.com/khawzk/APCRT/main/16p(HuiZi).png)
 
@@ -44,7 +44,7 @@ UM 22/23 WOC&amp;WOA Group Project
 
 ![HuiZi5pB](https://raw.githubusercontent.com/khawzk/APCRT/main/5pB(HuiZi).png)
 
-# 4.Choy Hon Yoong
+# Choy Hon Yoong
 
 ![Choy Hon Yoong16pA](https://raw.githubusercontent.com/khawzk/APCRT/main/16p(ChoyHonYoong).png)
 
@@ -52,7 +52,7 @@ UM 22/23 WOC&amp;WOA Group Project
 
 ![Choy Hon Yoong5pB](https://raw.githubusercontent.com/khawzk/APCRT/main/5pB(ChoyHonYoong).PNG)
 
-# 5.Sun Wenhao
+# Sun Wenhao
 
 ![Sun Wenhao16p](https://raw.githubusercontent.com/khawzk/APCRT/main/16p(Wenhao).png)
 
@@ -60,7 +60,7 @@ UM 22/23 WOC&amp;WOA Group Project
 
 ![Sun Wenhao5p](https://raw.githubusercontent.com/khawzk/APCRT/main/5pB(Wenhao).png)
 
-# 6.Shiqi Yin
+# Shiqi Yin
 
 ![SHIQI YIN16p](https://raw.githubusercontent.com/khawzk/APCRT/main/16pA(ShiqiYin).png)
 
@@ -68,7 +68,7 @@ UM 22/23 WOC&amp;WOA Group Project
 
 ![SHIQI YIN5p](https://raw.githubusercontent.com/khawzk/APCRT/main/5p(ShiqiYin).jpg)
 
-# 7.Jiayu Du
+# Jiayu Du
 
 ![Jiayu Du16p](https://raw.githubusercontent.com/khawzk/APCRT/main/16pA(JiaYuDu).PNG)
 
@@ -76,7 +76,7 @@ UM 22/23 WOC&amp;WOA Group Project
 
 ![Jiayu Du5p](https://raw.githubusercontent.com/khawzk/APCRT/main/5p(JiayuDu).jpg)
 
-# 8.Jie Jiang
+# Jie Jiang
 
 ![Jie Jiang16p](https://raw.githubusercontent.com/khawzk/APCRT/main/16p(JieJiang).png)
 
@@ -84,14 +84,14 @@ UM 22/23 WOC&amp;WOA Group Project
 
 ![Jie Jiang5p](https://raw.githubusercontent.com/khawzk/APCRT/main/5pB(JieJiang).png)
 
-# 9.Meng Meng
+# Meng Meng
 
 ![Meng Meng16p](https://raw.githubusercontent.com/khawzk/APCRT/main/16p(MengMeng).jpg)
 
 ![Meng Meng5p](https://raw.githubusercontent.com/khawzk/APCRT/main/5p(MengMeng).png)
 
 
-# 10.Jialiang Liu
+# Jialiang Liu
 
 ![JIALIANG LIU16p](https://raw.githubusercontent.com/khawzk/APCRT/main/16p(JiaLiangLiu).png)
 
@@ -99,7 +99,7 @@ UM 22/23 WOC&amp;WOA Group Project
 
 ![JIALIANG LIU5pB](https://raw.githubusercontent.com/khawzk/APCRT/main/5pB(JiaLiangLiu).png)
 
-# 11.Lim Mei Yee
+# Lim Mei Yee
 
 ![Lim Mei Yee16p](https://raw.githubusercontent.com/khawzk/APCRT/main/16p(MeiYeeLim).jpg)
 
