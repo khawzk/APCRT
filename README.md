@@ -1,27 +1,27 @@
 # Group Name: APCRT
 UM 22/23 WOC&amp;WOA Group Project
 # Group Member 
--[1.Khaw Zhe Kang](#khaw-zhe-kang)
+-1.[Khaw Zhe Kang](#khaw-zhe-kang)
 
--[2.Cheok Jun Yang](#cheok-jun-yang)
+-2.[Cheok Jun Yang](#cheok-jun-yang)
 
--[3.Hui Zi](#hui-zi)
+-3.[Hui Zi](#hui-zi)
 
--[4.Choy Hon Yoong](#choy-hon-yoong)
+-4.[Choy Hon Yoong](#choy-hon-yoong)
 
--[5.Sun Wenhao](#sun-wenhao)
+-5.[Sun Wenhao](#sun-wenhao)
 
--[6.Shiqi Yin](#shiqi-yin)
+-6.[Shiqi Yin](#shiqi-yin)
 
--[7.Jiayu Du](#jiayu-du)
+-7.[Jiayu Du](#jiayu-du)
 
--[8.Jie Jiang](#jie-jiang)
+-8.[Jie Jiang](#jie-jiang)
 
--[9.Meng Meng](#meng-meng)
+-9.[Meng Meng](#meng-meng)
 
--[10.Jialiang Liu](#jialiang-liu)
+-10.[Jialiang Liu](#jialiang-liu)
 
--[11.Lim Mei Yee](#lim-mei-yee)
+-11.[Lim Mei Yee](#lim-mei-yee)
 
 ## Personalities Test Results
 # Khaw Zhe Kang
