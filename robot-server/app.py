@@ -9,31 +9,31 @@ paddyRobot = PaddyRobot()
 controller = RobotController(paddyRobot)
 
 
-@app.route("/manual/left")
+@app.route("/manual/left", methods=['GET'])
 def left():
     paddyRobot.left()
     return "OK"
 
 
-@app.route("/manual/right")
+@app.route("/manual/right", methods=['GET'])
 def right():
     paddyRobot.right()
     return "OK"
 
 
-@app.route("/manual/forward")
+@app.route("/manual/forward", methods=['GET'])
 def forward():
     paddyRobot.forward()
     return "OK"
 
 
-@app.route("/manual/backward")
+@app.route("/manual/backward", methods=['GET'])
 def backward():
     paddyRobot.backward()
     return "OK"
 
 
-@app.route("/manual/stop")
+@app.route("/manual/stop", methods=['GET'])
 def stop():
     paddyRobot.stop()
     return "OK"
@@ -51,11 +51,20 @@ def right90():
     return "OK"
 
 
-@app.route("/square")
-def square():
-    controller.square()
+@app.route("/squareleft")
+def squareleft():
+    controller.square_left()
     return "OK"
 
+@app.route("/squareright")
+def squareright():
+    controller.square_right()
+    return "OK"
+
+@app.route("/zigzag")
+def zigzag():
+    controller.zigzag()
+    return "OK"
 
 # @socketio.on("set_axis")
 # def set_axis(data):
