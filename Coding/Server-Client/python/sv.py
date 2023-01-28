@@ -12,6 +12,8 @@ frmotor = Motor(forward=13, backward=19, enable=26)
 blmotor = Motor(forward=5, backward=6, enable=12)
 brmotor = Motor(forward=17, backward=27, enable=22)
 
+STRAIGHT_LINE_POWER = 0.3
+TURNING_POWER = 0.3
 
 class HttpHandler(CGIHTTPRequestHandler):
 
@@ -75,32 +77,32 @@ class HttpHandler(CGIHTTPRequestHandler):
 
     def left(self):
         print('Left ...')
-        flmotor.backward()
-        frmotor.forward()
-        blmotor.backward()
-        brmotor.forward()
+        flmotor.backward(STRAIGHT_LINE_POWER)
+        frmotor.forward(STRAIGHT_LINE_POWER)
+        blmotor.backward(STRAIGHT_LINE_POWER)
+        brmotor.forward(STRAIGHT_LINE_POWER)
 
     def right(self):
         print('Right ...')
-        flmotor.forward()
-        frmotor.backward()
-        blmotor.forward()
-        brmotor.backward()
+        flmotor.forward(STRAIGHT_LINE_POWER)
+        frmotor.backward(STRAIGHT_LINE_POWER)
+        blmotor.forward(STRAIGHT_LINE_POWER)
+        brmotor.backward(STRAIGHT_LINE_POWER)
 
     def forward(self):
         print('Forwarding ...')
-        flmotor.forward()
-        frmotor.forward()
-        blmotor.forward()
-        brmotor.forward()
+        flmotor.forward(STRAIGHT_LINE_POWER)
+        frmotor.forward(STRAIGHT_LINE_POWER)
+        blmotor.forward(STRAIGHT_LINE_POWER)
+        brmotor.forward(STRAIGHT_LINE_POWER)
 
     def reverse(self):
 
         print('backward ...')
-        flmotor.backward()
-        frmotor.backward()
-        blmotor.backward()
-        brmotor.backward()
+        flmotor.backward(STRAIGHT_LINE_POWER)
+        frmotor.backward(STRAIGHT_LINE_POWER)
+        blmotor.backward(STRAIGHT_LINE_POWER)
+        brmotor.backward(STRAIGHT_LINE_POWER)
 
     def stop(self):
         print('Stopping ...')
