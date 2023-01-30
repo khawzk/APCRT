@@ -98,13 +98,10 @@ class MainActivity : AppCompatActivity() {
             var con: String = ""
             var api: Api = Api()
             con = "7"
-            var url=t.getTextIp()
-            System.out.println(url)
-            System.out.println(con)
-            api.sendByOKHttp(url, con)
+            var url=t.getTextIp() + "/zigzag"
+            api.sendGetRequest(url, con)
             // 开始时间stopWatch.start()
             // 执行时间(1s)
-            Thread.sleep(5000)
             tv_alert.text = "end of autopilot"
             alert("end of autopilot", "respected user") {
                 positiveButton("sure") {
@@ -137,48 +134,36 @@ class MainActivity : AppCompatActivity() {
             when (v.id) {
                 R.id.btnUp -> {
                     con = "1"
-                    var url=t.getTextIp()
+                    var url=t.getTextIp() + "/manual/forward"
 
-                    System.out.println(url)
-                    System.out.println(con)
-                    api.sendByOKHttp(url, con)
+                    api.sendGetRequest(url, con)
                     //makeText(this@MainActivity, "score=+", LENGTH_SHORT).show()
 
                 }
                 R.id.btnleft -> {
                     con = "2"
-                    var url=t.getTextIp()
-                    System.out.println(url)
-                    System.out.println(con)
-                    api.sendByOKHttp(url, con)
+                    var url=t.getTextIp() + "/manual/left"
+                    api.sendGetRequest(url, con)
                 }
                 R.id.btnstop -> {
                     con = "3"
-                    var url=t.getTextIp()
-                    System.out.println(url)
-                    System.out.println(con)
-                    api.sendByOKHttp(url, con)
+                    var url=t.getTextIp() + "/manual/stop"
+                    api.sendGetRequest(url, con)
                 }
                 R.id.btnright -> {
                     con = "4"
-                    var url=t.getTextIp()
-                    System.out.println(url)
-                    System.out.println(con)
-                    api.sendByOKHttp(url, con)
+                    var url=t.getTextIp() + "/manual/right"
+                    api.sendGetRequest(url, con)
                 }
                 R.id.btndown -> {
                     con = "5"
-                    var url=t.getTextIp()
-                    System.out.println(url)
-                    System.out.println(con)
-                    api.sendByOKHttp(url, con)
+                    var url=t.getTextIp() + "/manual/backward"
+                    api.sendGetRequest(url, con)
                 }
                 R.id.btncamera -> {
                     con = "6"
-                    var url=t.getTextIp()
-                    System.out.println(url)
-                    System.out.println(con)
-                    api.sendByOKHttp(url, con)
+                    var url=t.getTextIp() + "/squareleft"
+                    api.sendGetRequest(url, con)
                 }
                 else -> {
                 }
