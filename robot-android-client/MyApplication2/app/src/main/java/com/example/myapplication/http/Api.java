@@ -3,9 +3,8 @@ package com.example.myapplication.http;
 import java.io.IOException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import java.util.concurrent.ThreadPoolExecutor;
+import java.util.concurrent.TimeUnit;
 
-import okhttp3.Cache;
 import okhttp3.MediaType;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
@@ -24,6 +23,7 @@ public class Api {
 
     public static OkHttpClient initializeClient() {
         return new OkHttpClient.Builder()
+                .connectTimeout(30, TimeUnit.SECONDS)
                 .addInterceptor(new HttpLoggingInterceptor())
                 .build();
     }
@@ -58,7 +58,7 @@ public class Api {
      * 发送请求（使用 OKHttp）
      */
     public void sendGetRequest(String url, String con) {
-        threadPool.execute(()->{
+        threadPool.execute(() -> {
             MediaType postrequestjsontype = MediaType.parse("application/json; charset=utf-8");
             //System.out.println(body);
 
@@ -75,6 +75,4 @@ public class Api {
             }
         });
     }
-
-
 }

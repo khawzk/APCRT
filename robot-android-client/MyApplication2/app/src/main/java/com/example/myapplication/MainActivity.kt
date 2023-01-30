@@ -99,9 +99,11 @@ class MainActivity : AppCompatActivity() {
             var api: Api = Api()
             con = "7"
             var url=t.getTextIp() + "/zigzag"
-            api.sendGetRequest(url, con)
+            api.sendGetRequest(url, con);
             // 开始时间stopWatch.start()
             // 执行时间(1s)
+            Thread.sleep(5000)
+
             tv_alert.text = "end of autopilot"
             alert("end of autopilot", "respected user") {
                 positiveButton("sure") {
