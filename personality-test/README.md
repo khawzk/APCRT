@@ -32,17 +32,17 @@ UM 22/23 WOC&amp;WOA Group Project
 
 # Cheok Jun Yang
 
-![CheokJunYang16p](https://raw.githubusercontent.com/khawzk/APCRT/main/16P(CheokJunYang).PNG)
+![CheokJunYang16p]([https://raw.githubusercontent.com/khawzk/APCRT/main/16P(CheokJunYang).PNG](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16P(CheokJunYang).PNG?token=GHSAT0AAAAAAB3FU4JHCQSP7C5FWHAC7KVIY62BQRQ))
 
-![CheokJunYang5p](https://raw.githubusercontent.com/khawzk/APCRT/main/5P(CheokJunYang).PNG)
+![CheokJunYang5p]([https://raw.githubusercontent.com/khawzk/APCRT/main/5P(CheokJunYang).PNG](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5P(CheokJunYang).PNG?token=GHSAT0AAAAAAB3FU4JH2MTA4SJNN3Z5SU5EY62BQBQ))
 
 # Hui Zi
 
-![HuiZi16p](https://raw.githubusercontent.com/khawzk/APCRT/main/16p(HuiZi).png)
+![HuiZi16p]([https://raw.githubusercontent.com/khawzk/APCRT/main/16p(HuiZi).png](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16p(HuiZi).png?token=GHSAT0AAAAAAB3FU4JHRKBU5QEAJ7F5CYYGY62BQ4A))
 
-![HuiZi5pA](https://raw.githubusercontent.com/khawzk/APCRT/main/5pA(HuiZi).png)
+![HuiZi5pA]([https://raw.githubusercontent.com/khawzk/APCRT/main/5pA(HuiZi).png](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5pA(HuiZi).png?token=GHSAT0AAAAAAB3FU4JHD6PZUGZ6XZMPH6LMY62BRIQ))
 
-![HuiZi5pB](https://raw.githubusercontent.com/khawzk/APCRT/main/5pB(HuiZi).png)
+![HuiZi5pB]([https://raw.githubusercontent.com/khawzk/APCRT/main/5pB(HuiZi).png](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5pB(HuiZi).png?token=GHSAT0AAAAAAB3FU4JHRGJL3FP7WTOK7LN4Y62BRPA))
 
 # Choy Hon Yoong
 
