@@ -99,6 +99,6 @@ UM 22/23 WOC&amp;WOA Group Project
 
 # Lim Mei Yee
 
-![Lim Mei Yee16p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16p(MeiYeeLim).jpg?token=GHSAT0AAAAAAB3FU4JGI22O2QLU4S7MKJSWY62B2ZQ)
+![Lim Mei Yee16p](https://github.com/khawzk/APCRT/blob/main/personality-test16p(MeiYeeLim).jpg)
 
-![Lim Mei Yee5p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5p(MeiYeeLim).PNG?token=GHSAT0AAAAAAB3FU4JHSD6MBE7HMNFNCATKY62B22Q)
+![Lim Mei Yee5p](https://github.com/khawzk/APCRT/blob/main/personality-test/5p(MeiYeeLim).PNG)
