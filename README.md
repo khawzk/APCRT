@@ -1,7 +1,7 @@
 # Group Name: APCRT
 UM 22/23 WOC&amp;WOA Group Project
 # Group Member 
-- [Khaw Zhe Kang (WOA)](#khaw-zhe-kang)
+- [Khaw Zhe Kang (WOA)]
 
 - [Cheok Jun Yang (WOA)](#cheok-jun-yang)
 
