@@ -27,7 +27,7 @@ UM 22/23 WOC&amp;WOA Group Project
 # Deliverables:
 Github:[Link to Github](https://github.com/khawzk/APCRT){:target="_blank"}
 
-SRS Updated Version:[Link to SRS](https://docs.google.com/document/d/1aeNZ4wTOU638THBkRibN4lZSz_xdL-RwSOWbXxv-EOo/edit?usp=sharing){:target="_blank"}
+SRS Updated Version:[Link to SRS](https://docs.google.com/document/d/1aeNZ4wTOU638THBkRibN4lZSz_xdL-RwSOWbXxv-EOo/edit?usp=sharing{:target="_blank"}){:target="_blank"}
 
 Final Report:[Link to Final Report](https://docs.google.com/document/d/1X_rJUdVo2zp16W4-xh7Hi2c49kazBoBjqOIzAwe6stE/edit?usp=sharing){:target="_blank"}
 
