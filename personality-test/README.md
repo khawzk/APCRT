@@ -26,7 +26,7 @@ UM 22/23 WOC&amp;WOA Group Project
 ## Personalities Test Results
 # Khaw Zhe Kang
 
-![KhawZheKang16p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16Personalities.PNG?token=GHSAT0AAAAAAB3FU4JGX4O2CPMH4D65FP5KY62BOSA)
+![KhawZheKang16p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16Personalities.PNG)
 
 ![KhawZheKang5p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5Personalities.PNG?token=GHSAT0AAAAAAB3FU4JGCVHOVE5NQL7PJN7CY62BO7Q)
 
