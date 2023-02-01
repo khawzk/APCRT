@@ -42,23 +42,22 @@ UM 22/23 WOC&amp;WOA Group Project
 
 ![HuiZi5pA](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5pA(HuiZi).png?token=GHSAT0AAAAAAB3FU4JHD6PZUGZ6XZMPH6LMY62BRIQ)
 
-![HuiZi5pB]([https://raw.githubusercontent.com/khawzk/APCRT/main/5pB(HuiZi).png](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5pB(HuiZi).png?token=GHSAT0AAAAAAB3FU4JHRGJL3FP7WTOK7LN4Y62BRPA))
+![HuiZi5pB](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5pB(HuiZi).png?token=GHSAT0AAAAAAB3FU4JHRGJL3FP7WTOK7LN4Y62BRPA)
 
 # Choy Hon Yoong
 
-![Choy Hon Yoong16pA](https://raw.githubusercontent.com/khawzk/APCRT/main/16p(ChoyHonYoong).png)
+![Choy Hon Yoong16pA](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16p(ChoyHonYoong).png?token=GHSAT0AAAAAAB3FU4JHVGNQCBEWUHDTPQNAY62BTCA)
+![Choy Hon Yoong5pA](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5pA(ChoyHonYoong).PNG?token=GHSAT0AAAAAAB3FU4JHG533U7NWRPMMILE6Y62BTVA)
 
-![Choy Hon Yoong5pA](https://raw.githubusercontent.com/khawzk/APCRT/main/5pA(ChoyHonYoong).PNG)
-
-![Choy Hon Yoong5pB](https://raw.githubusercontent.com/khawzk/APCRT/main/5pB(ChoyHonYoong).PNG)
+![Choy Hon Yoong5pB](https://github.com/khawzk/APCRT/blob/main/personality-test/5pB(ChoyHonYoong).PNG)
 
 # Sun Wenhao
 
-![Sun Wenhao16p](https://raw.githubusercontent.com/khawzk/APCRT/main/16p(Wenhao).png)
+![Sun Wenhao16p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16p(Wenhao).png?token=GHSAT0AAAAAAB3FU4JH3VBEFOBWDGPQ6N2GY62BUOA)
 
-![Sun Wenhao5p](https://raw.githubusercontent.com/khawzk/APCRT/main/5pA(Wenhao).png)
+![Sun Wenhao5p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5pA(Wenhao).png?token=GHSAT0AAAAAAB3FU4JGOQXQMTYODZ7LU56AY62BUWQ)
 
-![Sun Wenhao5p](https://raw.githubusercontent.com/khawzk/APCRT/main/5pB(Wenhao).png)
+![Sun Wenhao5p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5pB(Wenhao).png?token=GHSAT0AAAAAAB3FU4JHNLAKMYY25P4F43VUY62BU7A)
 
 # Shiqi Yin
 
