@@ -46,7 +46,7 @@ UM 22/23 WOC&amp;WOA Group Project
 
 # Choy Hon Yoong
 
-![Choy Hon Yoong16pA](https://github.com/khawzk/APCRT/blob/main/personality-test/16p(ChoyHonYoong).PNG)
+![Choy Hon Yoong16pA](https://github.com/khawzk/APCRT/blob/main/personality-test/16p(ChoyHonYoong).png)
 ![Choy Hon Yoong5pA](https://github.com/khawzk/APCRT/blob/main/personality-test/5pA(ChoyHonYoong).PNG)
 ![Choy Hon Yoong5pB](https://github.com/khawzk/APCRT/blob/main/personality-test/5pB(ChoyHonYoong).PNG)
 
