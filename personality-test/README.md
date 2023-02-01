@@ -26,23 +26,23 @@ UM 22/23 WOC&amp;WOA Group Project
 ## Personalities Test Results
 # Khaw Zhe Kang
 
-![KhawZheKang16p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16Personalities.PNG)
+![KhawZheKang16p](https://github.com/khawzk/APCRT/blob/main/personality-test/16Personalities.PNG)
 
-![KhawZheKang5p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5Personalities.PNG?token=GHSAT0AAAAAAB3FU4JGCVHOVE5NQL7PJN7CY62BO7Q)
+![KhawZheKang5p](https://github.com/khawzk/APCRT/blob/main/personality-test/5Personalities.PNG)
 
 # Cheok Jun Yang
 
-![CheokJunYang16p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16P(CheokJunYang).PNG?token=GHSAT0AAAAAAB3FU4JHCQSP7C5FWHAC7KVIY62BQRQ)
+![CheokJunYang16p](https://github.com/khawzk/APCRT/blob/main/personality-test/16P(CheokJunYang).PNG)
 
-![CheokJunYang5p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5P(CheokJunYang).PNG?token=GHSAT0AAAAAAB3FU4JH2MTA4SJNN3Z5SU5EY62BQBQ)
+![CheokJunYang5p](https://github.com/khawzk/APCRT/blob/main/personality-test/5P(CheokJunYang).PNG)
 
 # Hui Zi
 
-![HuiZi16p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16p(HuiZi).png?token=GHSAT0AAAAAAB3FU4JHRKBU5QEAJ7F5CYYGY62BQ4A)
+![HuiZi16p](https://github.com/khawzk/APCRT/blob/main/personality-test/16p(HuiZi).png)
 
-![HuiZi5pA](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5pA(HuiZi).png?token=GHSAT0AAAAAAB3FU4JHD6PZUGZ6XZMPH6LMY62BRIQ)
+![HuiZi5pA](https://github.com/khawzk/APCRT/blob/main/personality-test/5pA(HuiZi).png)
 
-![HuiZi5pB](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5pB(HuiZi).png?token=GHSAT0AAAAAAB3FU4JHRGJL3FP7WTOK7LN4Y62BRPA)
+![HuiZi5pB](https://github.com/khawzk/APCRT/blob/main/personality-test/5pB(HuiZi).png)
 
 # Choy Hon Yoong
 
@@ -52,50 +52,50 @@ UM 22/23 WOC&amp;WOA Group Project
 
 # Sun Wenhao
 
-![Sun Wenhao16p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16p(Wenhao).png?token=GHSAT0AAAAAAB3FU4JH3VBEFOBWDGPQ6N2GY62BUOA)
+![Sun Wenhao16p](https://github.com/khawzk/APCRT/blob/main/personality-test/16p(Wenhao).png)
 
-![Sun Wenhao5p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5pA(Wenhao).png?token=GHSAT0AAAAAAB3FU4JGOQXQMTYODZ7LU56AY62BUWQ)
+![Sun Wenhao5p](https://github.com/khawzk/APCRT/blob/main/personality-test/5pA(Wenhao).png)
 
-![Sun Wenhao5p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5pB(Wenhao).png?token=GHSAT0AAAAAAB3FU4JHNLAKMYY25P4F43VUY62BU7A)
+![Sun Wenhao5p](https://github.com/khawzk/APCRT/blob/main/personality-test/5pB(Wenhao).png)
 
 # Shiqi Yin
 
-![SHIQI YIN16p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16pA(ShiqiYin).png?token=GHSAT0AAAAAAB3FU4JHHV23DD2FAITD2UFAY62BVSA)
+![SHIQI YIN16p](https://github.com/khawzk/APCRT/blob/main/personality-test/16pA(ShiqiYin).png)
 
-![SHIQI YIN16p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16pB(ShiqiYin)ABC.PNG?token=GHSAT0AAAAAAB3FU4JHDV6MDTXMP26CVDAAY62BWLA)
+![SHIQI YIN16p](https://github.com/khawzk/APCRT/blob/main/personality-test/16pB(ShiqiYin)ABC.PNG)
 
-![SHIQI YIN5p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5p(ShiqiYin).jpg?token=GHSAT0AAAAAAB3FU4JHPZWVDAIXNHFFTRFUY62BWVQ)
+![SHIQI YIN5p](https://github.com/khawzk/APCRT/blob/main/personality-test/5p(ShiqiYin).jpg)
 
 # Jiayu Du
 
-![Jiayu Du16p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16pA(JiaYuDu).PNG?token=GHSAT0AAAAAAB3FU4JGYGISSPIJFNKF4RJWY62BXJA)
+![Jiayu Du16p](https://github.com/khawzk/APCRT/blob/main/personality-test/16pA(JiaYuDu).PNG)
 
-![Jiayu Du16p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16pB(JiayuDu).jpg?token=GHSAT0AAAAAAB3FU4JH7F723VNGGOO4AMEUY62BXSQ)
+![Jiayu Du16p](https://github.com/khawzk/APCRT/blob/main/personality-test/16pB(JiayuDu).jpg)
 
-![Jiayu Du5p](https://github.com/khawzk/APCRT/blob/main/personality-test/5p(JiayuDu).jpg?raw=true)
+![Jiayu Du5p](https://github.com/khawzk/APCRT/blob/main/personality-test/5p(JiayuDu).jpg)
 
 # Jie Jiang
 
-![Jie Jiang16p](https://raw.githubusercontent.com/khawzk/APCRT/main/16p(JieJiang).png)
+![Jie Jiang16p](https://github.com/khawzk/APCRT/blob/main/personality-test/16p(JieJiang).png)
 
-![Jie Jiang5p](https://raw.githubusercontent.com/khawzk/APCRT/main/5pA(JieJiang).png)
+![Jie Jiang5p](https://github.com/khawzk/APCRT/blob/main/personality-test/5pA(JieJiang).png)
 
-![Jie Jiang5p](https://raw.githubusercontent.com/khawzk/APCRT/main/5pB(JieJiang).png)
+![Jie Jiang5p](https://github.com/khawzk/APCRT/blob/main/personality-test/5pB(JieJiang).png)
 
 # Meng Meng
 
-![Meng Meng16p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16p(MengMeng).jpg?token=GHSAT0AAAAAAB3FU4JHJ7XHVL5MOWXB64IKY62B5NA)
+![Meng Meng16p](https://github.com/khawzk/APCRT/blob/main/personality-test/16p(MengMeng).jpg)
 
-![Meng Meng5p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5p(MengMeng).png?token=GHSAT0AAAAAAB3FU4JHZR4QTMZDJIQKGZUCY62B5BA)
+![Meng Meng5p](https://github.com/khawzk/APCRT/blob/main/personality-test/5p(MengMeng).png)
 
 
 # Jialiang Liu
 
-![JIALIANG LIU16p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16p(JiaLiangLiu).png?token=GHSAT0AAAAAAB3FU4JH6LHAMWRRMF7VG5TQY62B3VQ)
+![JIALIANG LIU16p](https://github.com/khawzk/APCRT/blob/main/personality-test/16p(JiaLiangLiu).png)
 
-![JIALIANG LIU5pA](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5pA(JiaLiangLiu).png?token=GHSAT0AAAAAAB3FU4JGXLYASF6GVDV2W6CWY62B37A)
+![JIALIANG LIU5pA](https://github.com/khawzk/APCRT/blob/main/personality-test/5pA(JiaLiangLiu).png)
 
-![JIALIANG LIU5pB](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5pB(JiaLiangLiu).png?token=GHSAT0AAAAAAB3FU4JHRCO64P7F2XK6JHHYY62B4EA)
+![JIALIANG LIU5pB](https://github.com/khawzk/APCRT/blob/main/personality-test/5pB(JiaLiangLiu).png)
 
 # Lim Mei Yee
 
