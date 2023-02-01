@@ -61,19 +61,19 @@ UM 22/23 WOC&amp;WOA Group Project
 
 # Shiqi Yin
 
-![SHIQI YIN16p](https://raw.githubusercontent.com/khawzk/APCRT/main/16pA(ShiqiYin).png)
+![SHIQI YIN16p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16pA(ShiqiYin).png?token=GHSAT0AAAAAAB3FU4JHHV23DD2FAITD2UFAY62BVSA)
 
-![SHIQI YIN16p](https://raw.githubusercontent.com/khawzk/APCRT/main/16pB(ShiqiYin)ABC.PNG)
+![SHIQI YIN16p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16pB(ShiqiYin)ABC.PNG?token=GHSAT0AAAAAAB3FU4JHDV6MDTXMP26CVDAAY62BWLA)
 
-![SHIQI YIN5p](https://raw.githubusercontent.com/khawzk/APCRT/main/5p(ShiqiYin).jpg)
+![SHIQI YIN5p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5p(ShiqiYin).jpg?token=GHSAT0AAAAAAB3FU4JHPZWVDAIXNHFFTRFUY62BWVQ)
 
 # Jiayu Du
 
-![Jiayu Du16p](https://raw.githubusercontent.com/khawzk/APCRT/main/16pA(JiaYuDu).PNG)
+![Jiayu Du16p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16pA(JiaYuDu).PNG?token=GHSAT0AAAAAAB3FU4JGYGISSPIJFNKF4RJWY62BXJA)
 
-![Jiayu Du16p](https://raw.githubusercontent.com/khawzk/APCRT/main/16pB(JiayuDu).jpg)
+![Jiayu Du16p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16pB(JiayuDu).jpg?token=GHSAT0AAAAAAB3FU4JH7F723VNGGOO4AMEUY62BXSQ)
 
-![Jiayu Du5p](https://raw.githubusercontent.com/khawzk/APCRT/main/5p(JiayuDu).jpg)
+![Jiayu Du5p](https://github.com/khawzk/APCRT/blob/main/personality-test/5p(JiayuDu).jpg?raw=true)
 
 # Jie Jiang
 
