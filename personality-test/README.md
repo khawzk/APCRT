@@ -92,14 +92,14 @@ UM 22/23 WOC&amp;WOA Group Project
 
 # Jialiang Liu
 
-![JIALIANG LIU16p](https://raw.githubusercontent.com/khawzk/APCRT/main/16p(JiaLiangLiu).png)
+![JIALIANG LIU16p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16p(JiaLiangLiu).png?token=GHSAT0AAAAAAB3FU4JH6LHAMWRRMF7VG5TQY62B3VQ)
 
-![JIALIANG LIU5pA](https://raw.githubusercontent.com/khawzk/APCRT/main/5pA(JiaLiangLiu).png)
+![JIALIANG LIU5pA][(https://raw.githubusercontent.com/khawzk/APCRT/main/5pA(JiaLiangLiu).png)](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5pA(JiaLiangLiu).png?token=GHSAT0AAAAAAB3FU4JGXLYASF6GVDV2W6CWY62B37A)
 
-![JIALIANG LIU5pB](https://raw.githubusercontent.com/khawzk/APCRT/main/5pB(JiaLiangLiu).png)
+![JIALIANG LIU5pB][(https://raw.githubusercontent.com/khawzk/APCRT/main/5pB(JiaLiangLiu).png)](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5pB(JiaLiangLiu).png?token=GHSAT0AAAAAAB3FU4JHRCO64P7F2XK6JHHYY62B4EA)
 
 # Lim Mei Yee
 
-![Lim Mei Yee16p](https://raw.githubusercontent.com/khawzk/APCRT/main/16p(MeiYeeLim).jpg)
+![Lim Mei Yee16p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16p(MeiYeeLim).jpg?token=GHSAT0AAAAAAB3FU4JGI22O2QLU4S7MKJSWY62B2ZQ)
 
-![Lim Mei Yee5p](https://raw.githubusercontent.com/khawzk/APCRT/main/5p(MeiYeeLim).PNG)
+![Lim Mei Yee5p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5p(MeiYeeLim).PNG?token=GHSAT0AAAAAAB3FU4JHSD6MBE7HMNFNCATKY62B22Q)
