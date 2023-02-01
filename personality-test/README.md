@@ -85,18 +85,18 @@ UM 22/23 WOC&amp;WOA Group Project
 
 # Meng Meng
 
-![Meng Meng16p](https://raw.githubusercontent.com/khawzk/APCRT/main/16p(MengMeng).jpg)
+![Meng Meng16p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16p(MengMeng).jpg?token=GHSAT0AAAAAAB3FU4JHJ7XHVL5MOWXB64IKY62B5NA)
 
-![Meng Meng5p](https://raw.githubusercontent.com/khawzk/APCRT/main/5p(MengMeng).png)
+![Meng Meng5p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5p(MengMeng).png?token=GHSAT0AAAAAAB3FU4JHZR4QTMZDJIQKGZUCY62B5BA)
 
 
 # Jialiang Liu
 
 ![JIALIANG LIU16p](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/16p(JiaLiangLiu).png?token=GHSAT0AAAAAAB3FU4JH6LHAMWRRMF7VG5TQY62B3VQ)
 
-![JIALIANG LIU5pA][(https://raw.githubusercontent.com/khawzk/APCRT/main/5pA(JiaLiangLiu).png)](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5pA(JiaLiangLiu).png?token=GHSAT0AAAAAAB3FU4JGXLYASF6GVDV2W6CWY62B37A)
+![JIALIANG LIU5pA](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5pA(JiaLiangLiu).png?token=GHSAT0AAAAAAB3FU4JGXLYASF6GVDV2W6CWY62B37A)
 
-![JIALIANG LIU5pB][(https://raw.githubusercontent.com/khawzk/APCRT/main/5pB(JiaLiangLiu).png)](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5pB(JiaLiangLiu).png?token=GHSAT0AAAAAAB3FU4JHRCO64P7F2XK6JHHYY62B4EA)
+![JIALIANG LIU5pB](https://raw.githubusercontent.com/khawzk/APCRT/main/personality-test/5pB(JiaLiangLiu).png?token=GHSAT0AAAAAAB3FU4JHRCO64P7F2XK6JHHYY62B4EA)
 
 # Lim Mei Yee
 
