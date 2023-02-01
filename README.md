@@ -1,24 +1,24 @@
 # Group Name: APCRT
 UM 22/23 WOC&amp;WOA Group Project
 # Group Member 
-- [Khaw Zhe Kang (WOA)]
+- Khaw Zhe Kang (WOA)
 
-- [Cheok Jun Yang (WOA)](#cheok-jun-yang)
+- Cheok Jun Yang (WOA)
 
-- [Hui Zi (WOA)](#hui-zi)
+- Hui Zi (WOA)
 
-- [Choy Hon Yoong (WOA)](#choy-hon-yoong)
+- Choy Hon Yoong (WOA)]
 
-- [Sun Wenhao (WOA)](#sun-wenhao)
+- Sun Wenhao (WOA)
 
-- [Shiqi Yin (WOC)](#shiqi-yin)
+- Shiqi Yin (WOC)
 
-- [Jiayu Du (WOC)](#jiayu-du)
+- Jiayu Du (WOC)
 
-- [Jie Jiang (WOC)](#jie-jiang)
+- Jie Jiang (WOC)
 
-- [Meng Meng (WOC)](#meng-meng)
+- Meng Meng (WOC)
 
-- [Jialiang Liu (WOC)](#jialiang-liu)
+- Jialiang Liu (WOC)
 
-- [Lim Mei Yee (WOA)](#lim-mei-yee)
+- Lim Mei Yee (WOA)
