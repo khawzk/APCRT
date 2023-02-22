@@ -7,7 +7,7 @@ UM 22/23 WOC&amp;WOA Group Project
 
 - Hui Zi (WOA)
 
-- Choy Hon Yoong (WOA)]
+- Choy Hon Yoong (WOA)
 
 - Sun Wenhao (WOA)
 
