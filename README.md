@@ -38,10 +38,15 @@ Personality Test:[Link to Personality Test Results](https://github.com/khawzk/AP
 # Description:
 ## How to use the Code:
 1.Connect Raspberry Pi and Control Device into same Wi-Fi network.
+
 2.Run python code at Server Side(Path).
+
 3.Run Mobile Apps.
+
 4.Connect to the same IP network.
+
 5.Start Using!
+
 
 ## Schematic Diagram
 
