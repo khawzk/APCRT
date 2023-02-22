@@ -5,6 +5,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
+import okhttp3.Callback;
 import okhttp3.MediaType;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
@@ -74,5 +75,21 @@ public class Api {
                 e.printStackTrace();
             }
         });
+    }
+
+    /**
+     * 发送请求（使用 OKHttp）
+     */
+    public void asyncSendGetRequest(String url, String con, Callback callback) {
+        MediaType postrequestjsontype = MediaType.parse("application/json; charset=utf-8");
+        //System.out.println(body);
+
+        try {
+            RequestBody body = RequestBody.create(postrequestjsontype, con);
+            Request request = new Request.Builder().url(url).get().build();
+            client.newCall(request).enqueue(callback);//发送请求
+        } catch (RuntimeException e) {
+            e.printStackTrace();
+        }
     }
 }

@@ -9,7 +9,12 @@ import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import com.example.myapplication.http.Api
 import com.example.myapplication.http.TestIp
+import okhttp3.Call
+import okhttp3.Callback
+import okhttp3.Request
+import okhttp3.Response
 import org.jetbrains.anko.alert
+import java.io.IOException
 
 
 class MainActivity : AppCompatActivity() {
@@ -99,21 +104,37 @@ class MainActivity : AppCompatActivity() {
             var api: Api = Api()
             con = "7"
             var url=t.getTextIp() + "/zigzag"
-            api.sendGetRequest(url, con);
+
+            val callback = object : Callback {
+                override fun onFailure(call: Call, e: IOException) {
+                    tv_alert.text = "end of autopilot"
+                    alert("end of autopilot", "respected user") {
+                        positiveButton("sure") {
+                            tv_alert.text ="reach the destination"
+                        }
+                        negativeButton("Cancel") {
+                            tv_alert.text = "Cancel"
+                        }
+                    }.show()
+                }
+
+                override fun onResponse(call: Call, response: Response) {
+                    tv_alert.text = "end of autopilot"
+                    alert("end of autopilot", "respected user") {
+                        positiveButton("sure") {
+                            tv_alert.text ="reach the destination"
+                        }
+                        negativeButton("Cancel") {
+                            tv_alert.text = "Cancel"
+                        }
+                    }.show()
+                }
+            }
+
+
+            api.asyncSendGetRequest(url, con, callback);
             // 开始时间stopWatch.start()
             // 执行时间(1s)
-            Thread.sleep(5000)
-
-            tv_alert.text = "end of autopilot"
-            alert("end of autopilot", "respected user") {
-                positiveButton("sure") {
-                    tv_alert.text ="reach the destination"
-                }
-                negativeButton("Cancel") {
-                    tv_alert.text = "Cancel"
-                }
-            }.show()
-            // 结束时间stopWatch.stop();// 统计执行时间(秒)System.out.printf("执行时长：%d 秒.%n", stopWatch.getTotalTimeSeconds()); // %n 为换行// 统计执行时间(毫秒)System.out.printf("执行时长：%d 毫秒.%n", stopWatch.getTotalTimeMillis()); // 统计执行时间(纳秒)System.out.printf("执行时长：%d 纳秒.%n", stopWatch.getTotalTimeNanos());
 
 
         };
