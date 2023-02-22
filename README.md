@@ -35,3 +35,14 @@ Final Presentation:[Link to Final PPT](https://docs.google.com/presentation/d/1k
 
 Personality Test:[Link to Personality Test Results](https://github.com/khawzk/APCRT/tree/main/personality-test)
 
+# Description:
+## How to use the Code:
+1.Connect Raspberry Pi and Control Device into same Wi-Fi network.
+2.Run python code at Server Side(Path).
+3.Run Mobile Apps.
+4.Connect to the same IP network.
+5.Start Using!
+
+## Schematic Diagram
+
+
