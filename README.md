@@ -39,9 +39,9 @@ Personality Test:[Link to Personality Test Results](https://github.com/khawzk/AP
 ## How to use the Code:
 1.Connect Raspberry Pi and Control Device into same Wi-Fi network.
 
-2.Run python code at Server Side(Path).
+2.Run python code at Server Side [Link to Server Code](https://github.com/khawzk/APCRT/tree/main/robot-server).
 
-3.Run Mobile Apps.
+3.Run Mobile Apps[Link to Mobile Code](https://github.com/khawzk/APCRT/tree/main/robot-android-client).
 
 4.Connect to the same IP network.
 
