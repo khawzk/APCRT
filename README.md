@@ -50,5 +50,5 @@ Personality Test:[Link to Personality Test Results](https://github.com/khawzk/AP
 
 ## Schematic Diagram
 
-![schematic diagram](schematic diagram.png)
+![schematic diagram](./img/schematic-diagram.png)
 
